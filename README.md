@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 How to share data with a statistician
 ===========
 
@@ -180,6 +185,8 @@ what the analyst did. It is the responsibility of both the statistician and the 
 analysis. You may not be able to perform the exact analyses without the statistician's code, but you should be able
 to explain why the statistician performed each step to a labmate/your principal investigator. 
 
+**Test Changes**
+
 
 Contributors
 ====================
@@ -188,5 +195,6 @@ Contributors
 * [L. Collado-Torres](http://bit.ly/LColladoTorres) - Fixed typos, added links.
 * [Nick Reich](http://people.umass.edu/nick/) - Added tips on storing data as text.
 * [Nick Horton](https://www.amherst.edu/people/facstaff/nhorton) - Minor wording suggestions.
+* Junayed Hasnayeen - Test Changes
 
 
